@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 30px;
+  padding: 0;
+}
+
+input[type="text"] {
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button {
+  padding: 10px 20px;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+input[type="range"] {
+  width: 60%;
+  margin: 10px;
+}
+
+input[type="checkbox"] {
+  margin: 10px;
+}
+label {
+  margin-right: 10px;
+}
